@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFg4NwgQMEbX5bND81Fc8Re6usosPalPHpopQoJpcrOuPkhLLhUECu0093WWsaK1qmna5OoAkTeNb4Cs0/KWdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\C# COMPLETO Programação Orientada a Objetos + Projetos\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
